@@ -1,0 +1,22 @@
+Pane {
+    -fx-background-color:#CCC;
+}
+
+Label {
+    -fx-text-fill:#f00;
+}
+
+Button{
+   -fx-text-fill:#fff;
+   -fx-border-color:#fff;
+   -fx-border-style:solid;
+   -fx-border-width:1px;
+   -fx-background-color:#000;
+}
+
+Button:hover {
+    -fx-text-fill:#000;
+    -fx-background-color:#fff;
+    -fx-border-color:#000;
+}
+
